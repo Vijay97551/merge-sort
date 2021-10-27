@@ -36,6 +36,7 @@ void sort(int low, int high) {
    } else { 
       return;
    }   
+   printf("yes");
 }
 
 int main() { 
