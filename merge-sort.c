@@ -68,6 +68,8 @@ void mergeSort(int arr[], int l, int r)
 
 		merge(arr, l, m, r); 
 	} 
+	for(int i=;i<n;i++)
+		printf("yes");
 } 
 
 /* UTILITY FUNCTIONS */
